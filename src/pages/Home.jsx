@@ -13,6 +13,7 @@ export default function Home() {
       {/* <TrekCards/> */}
       <WhyTrekWithUs/>
       
+      
       {/* other homepage sections */}
     </main>
   );
